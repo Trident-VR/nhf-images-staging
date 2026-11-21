@@ -1,0 +1,9 @@
+1|Disney & Pixar||1|58
+2|Cartoons||2|54
+3|Animated movies||3|28
+4|Villains||4|60
+5|Heroes & comics||5|17
+6|Mascots & weird ones||6|15
+7|Games||7|4
+8|Anime||8|1
+9|Sci-fi||9|3
