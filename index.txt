@@ -1,0 +1,165 @@
+1|Jack Skellington|nightmare before christmas skeleton halloween|1|0|729|768
+2|Loona|helluva boss hellhound wolf|1|1|461|768
+3|Lopunny|pokemon rabbit bunny|1|2|768|768
+4|Puss in Boots|shrek cat|1|3|480|480
+5|Swiper|dora the explorer fox|1|4|729|768
+6|La Muerte|book of life|1|5|722|768
+7|Ghostface|scream horror mask|1|6|768|768
+8|Diego|ice age sabertooth tiger|1|7|529|532
+9|EVE|wall-e robot pixar|1|8|590|768
+10|Gwen|total drama island|1|9|481|606
+11|Mavis|hotel transylvania vampire|1|10|597|707
+12|Shadow the Hedgehog|sonic sega|1|11|616|768
+13|Shego|kim possible villain|1|12|682|768
+14|Raven|teen titans dc|1|13|512|768
+15|The Great Prince of the Forest|bambi deer stag disney|1|14|500|601
+16|Gill|finding nemo fish pixar|1|15|512|768
+17|Spirit|stallion of the cimarron horse dreamworks|1|16|768|768
+18|Karen|spongebob plankton computer wife|1|17|512|768
+19|Magic Carpet|aladdin disney rug|1|18|485|696
+20|Chain Chomp|mario nintendo|1|19|518|445
+21|The Ocean|moana disney wave water|1|20|657|521
+22|Bubble Buddy|spongebob bubble|1|21|200|285
+23|Slade|teen titans dc villain|1|22|736|626
+24|Uncle Iroh|avatar last airbender tea|1|23|736|736
+25|The Sanderson Sisters' Book|hocus pocus spellbook|1|24|736|644
+26|Sly Cooper|raccoon thief playstation|1|25|720|720
+27|Frollo|hunchback of notre dame disney villain|1|26|539|768
+28|Jafar|aladdin disney villain|1|27|702|768
+29|Gaston|beauty and the beast disney|1|28|736|760
+30|Rango|chameleon lizard|1|29|511|768
+31|The Once-ler|lorax onceler|1|30|736|736
+32|Vanessa|little mermaid ursula disney|1|31|736|715
+33|Azula|avatar last airbender fire|1|32|665|768
+34|Judy Hopps|zootopia rabbit bunny cop|1|33|736|736
+35|Nowhere King|centaurworld|1|34|391|391
+36|Zaheer|legend of korra avatar|1|35|736|732
+37|Jack Frost|rise of the guardians|1|36|736|729
+38|Lord Dominator|wander over yonder|1|37|370|768
+39|Kronos|titan lava|1|38|350|408
+40|King|owl house|1|39|736|736
+41|Robbie|gravity falls|1|40|525|574
+42|Elastigirl|incredibles helen parr pixar|1|41|439|768
+43|Robin Hood|disney fox|1|42|527|768
+44|Sam Manson|danny phantom goth|1|43|720|720
+45|Scar|lion king disney villain|1|44|324|768
+46|Lord Farquaad|shrek|1|45|717|718
+47|Starfire|teen titans dc|1|46|461|768
+48|Ratigan|great mouse detective disney rat|1|47|210|240
+49|Max Goof|goofy movie disney|1|48|736|739
+50|Nick Wilde|zootopia fox|1|49|663|768
+51|Cheshire Cat|alice in wonderland disney|1|50|512|768
+52|Plankton|spongebob|1|51|716|716
+53|Cassandra|tangled disney|1|52|400|575
+54|Mirage|incredibles pixar|1|53|236|236
+55|Kovu|lion king 2 disney|1|54|736|595
+56|Princess Bubblegum|adventure time|1|55|600|600
+57|Squilliam|spongebob fancyson|1|56|640|640
+58|Yzma|emperors new groove disney villain|1|57|614|768
+59|Heihei|moana chicken rooster disney hei hei|1|58|472|768
+60|Roxanne|goofy movie disney|1|59|464|768
+61|Captain Hook|peter pan disney villain|1|60|726|768
+62|Marceline|adventure time vampire|1|61|640|681
+63|Chernabog|fantasia disney demon|1|62|593|768
+64|Mr. Bobinsky|coraline|1|63|736|736
+65|Dr. Facilier|princess and the frog shadow man disney|2|0|556|768
+66|Chief Bogo|zootopia buffalo|2|1|735|609
+67|Human Bill Cipher|gravity falls|2|2|449|768
+68|Scarecrow|batman dc villain|2|3|432|624
+69|Caterpillar|alice in wonderland disney|2|4|736|736
+70|Doris|shrek ugly stepsister|2|5|334|360
+71|Wolverine|x-men marvel logan|2|6|736|736
+72|Moon|bear in the big blue house luna|2|7|736|552
+73|Chef Louis|little mermaid disney|2|8|707|768
+74|King Triton|little mermaid disney|2|9|360|450
+75|Dirty Bubble|spongebob villain|2|10|736|693
+76|Him|powerpuff girls villain|2|11|310|448
+77|Wybie|coraline|2|12|400|400
+78|Deathstroke|dc villain|2|13|599|768
+79|Jessica Rabbit|who framed roger rabbit|2|14|615|768
+80|Other Father|coraline|2|15|585|618
+81|Sandworm|beetlejuice|2|16|709|534
+82|Target Dog|bullseye mascot|2|17|736|736
+83|Mad Hatter|alice in wonderland disney|2|18|417|727
+84|Megamind|dreamworks|2|19|736|736
+85|Dr. Drakken|kim possible villain|2|20|288|305
+86|Jabberwocky|alice in wonderland dragon|2|21|698|698
+87|Tulio|road to el dorado|2|22|281|426
+88|Mother Gothel|tangled disney villain|2|23|512|768
+89|Te Ka|moana lava disney|2|24|720|764
+90|Sedusa|powerpuff girls villain|2|25|504|768
+91|Kool-Aid Man|mascot|2|26|720|688
+92|Johnny Bravo|cartoon network|2|27|632|768
+93|Milo Thatch|atlantis disney|2|28|625|625
+94|Pacifica|gravity falls northwest|2|29|736|665
+95|Ursula|little mermaid disney villain|2|30|383|768
+96|Other Mother|coraline beldam|2|31|736|736
+97|Finnick|zootopia fennec fox|2|32|659|768
+98|Zuko|avatar last airbender|2|33|400|400
+99|Clayton|tarzan disney villain|2|34|555|480
+100|Hooty|owl house|2|35|736|736
+101|Helga Sinclair|atlantis disney|2|36|360|504
+102|Goliath|gargoyles disney|2|37|500|478
+103|Harley Quinn|batman dc|2|38|435|768
+104|Death|puss in boots wolf last wish|2|39|521|768
+105|Tai Lung|kung fu panda snow leopard|2|40|736|737
+106|Headless Horseman|sleepy hollow|2|41|492|768
+107|Flame Princess|adventure time|2|42|587|709
+108|Lola (Shark Tale)|fish|2|43|736|736
+109|Lola Bunny|space jam looney tunes|2|44|736|736
+110|Joker|batman dc villain|2|45|512|768
+111|Tantor|tarzan elephant disney|2|46|275|295
+112|Flying Dutchman|spongebob ghost|2|47|736|736
+113|Maleficent|sleeping beauty disney villain|2|48|736|736
+114|Beast|beauty and the beast disney|2|49|564|645
+115|Gambit|x-men marvel|2|50|540|540
+116|Korra|legend of korra avatar|2|51|534|768
+117|Shrek|ogre dreamworks|2|52|736|736
+118|The Collector|owl house|2|53|736|736
+119|Flynn Rider|tangled eugene disney|2|54|736|736
+120|Vlad Plasmius|danny phantom villain|2|55|736|749
+121|Chel|road to el dorado|2|56|432|768
+122|Duolingo Owl|duo mascot|2|57|736|736
+123|Jerry|tom and jerry mouse|2|58|736|736
+124|Belos|owl house emperor villain|2|59|736|736
+125|Blendin|gravity falls blandin|2|60|210|240
+126|Man Ray|spongebob villain|2|61|736|542
+127|Vector|despicable me|2|62|370|768
+128|Beast Boy|teen titans dc|2|63|736|736
+129|Syndrome|incredibles pixar villain|3|0|724|768
+130|Bill Cipher|gravity falls|3|1|720|720
+131|King Neptune|spongebob|3|2|736|716
+132|Ice King|adventure time|3|3|474|768
+133|Maid Marian|robin hood disney fox|3|4|472|563
+134|Aku|samurai jack villain|3|5|593|768
+135|Kronk|emperors new groove disney|3|6|736|630
+136|Panic|hercules disney|3|7|500|593
+137|The Cat|coraline|3|8|736|736
+138|Maui|moana disney|3|9|529|529
+139|Mandark|dexters laboratory|3|10|735|601
+140|Mystique|x-men marvel|3|11|690|690
+141|Jake Sully|avatar navi|3|12|512|768
+142|Dimitri|anastasia|3|13|736|736
+143|Mojo Jojo|powerpuff girls villain|3|14|736|736
+144|Queen of Hearts|alice in wonderland disney|3|15|647|768
+145|Powerline|goofy movie disney|3|16|559|768
+146|The Lorax|dr seuss|3|17|480|768
+147|Asami|legend of korra avatar sato|3|18|438|768
+148|Tighten|megamind titan villain|3|19|350|379
+149|Esmeralda|hunchback of notre dame disney|3|20|736|767
+150|Samurai Jack|cartoon network|3|21|435|466
+151|Catwoman|batman dc|3|22|573|768
+152|The Axolotl|gravity falls|3|23|736|667
+153|Danny Phantom|ghost nickelodeon|3|24|339|480
+154|The Lich|adventure time villain|3|25|736|736
+155|The Noid|dominos mascot|3|26|320|320
+156|Nightcrawler|x-men marvel|3|27|736|736
+157|Roger Rabbit|who framed roger rabbit|3|28|606|768
+158|SpongeBob|squarepants|3|29|334|340
+159|Hydra|hercules disney|3|30|601|768
+160|Eda|owl house owl lady|3|31|736|735
+161|Poison Ivy|batman dc|3|32|576|768
+162|Pitch Black|rise of the guardians boogeyman|3|33|433|768
+163|Phil|hercules philoctetes disney|3|34|736|736
+164|Hades|hercules disney villain|3|35|335|597
+165|Gorg Commander|home dreamworks alien gorg|3|36|418|479
