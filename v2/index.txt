@@ -163,3 +163,57 @@
 163|Phil|hercules philoctetes disney|1|54|736|736|1|1
 164|Hades|hercules disney villain|1|55|335|597|1|1,4
 165|Gorg Commander|home dreamworks alien gorg|4|27|418|479|3|3,9
+166|Frosty the Snowman|christmas snowman rankin bass|2|51|601|768|2|2
+167|Tony the Tiger|frosted flakes cereal mascot|7|7|576|768|6|6
+168|Rapunzel's Frying Pan|tangled rapunzel disney pan|1|56|508|328|1|1,6
+169|Predator|yautja alien movie hunter|8|1|640|733|9|9,4
+170|Dracula|hotel transylvania drac vampire|4|28|432|768|3|3
+171|Dr. Robotnik|sonic movie eggman jim carrey|5|4|736|671|4|4,7
+172|Edna Mode|incredibles pixar|1|57|736|736|1|1
+173|Kuzco|emperors new groove disney|1|58|720|720|1|1
+174|Fidget Spinner|toy|7|8|736|736|6|6
+175|Dr. Frank-N-Furter|rocky horror picture show|7|9|520|768|6|6
+176|Jareth|labyrinth goblin king|7|10|300|556|6|6
+177|Fred|big hero 6 disney|1|59|691|768|1|1
+178|Gru|despicable me minions|4|29|308|335|3|3
+179|Hank Scorpio|simpsons|2|52|600|450|2|2,4
+180|Hagrid|harry potter|7|11|736|736|6|6
+181|Handsome Squidward|spongebob squidward|2|53|398|768|2|2
+182|King Shark|suicide squad dc|6|14|576|768|5|5,4
+183|Leatherface|texas chainsaw massacre horror|5|5|497|497|4|4
+184|Lord Shen|kung fu panda peacock|4|30|480|640|3|3,4
+185|Luigi|mario nintendo|3|4|736|736|7|7
+186|Mater|cars pixar tow truck|1|60|433|768|1|1
+187|Mr. Clean|mascot|7|12|736|736|6|6
+188|Mr. Krabs|spongebob|2|54|736|736|2|2
+189|Mr. Potato Head|toy story pixar|1|61|681|768|1|1
+190|Mushu|mulan disney dragon|1|62|610|768|1|1
+191|Oogie Boogie|nightmare before christmas|1|63|601|768|1|1,4
+192|Optimus Prime|transformers|8|2|411|768|9|9
+193|Oscar the Grouch|sesame street muppet|7|13|648|768|6|6
+194|Patrick Star|spongebob|2|55|681|768|2|2
+195|Gary the Snail|spongebob|2|56|554|554|2|2
+196|Perry the Platypus|phineas and ferb agent p|2|57|523|768|2|2
+197|Pingu|penguin claymation|2|58|432|768|2|2
+198|Professor Utonium|powerpuff girls|2|59|500|457|2|2
+199|The Prowler|spider-verse spider-man marvel|6|15|708|768|5|5,4
+200|Remy|ratatouille pixar|9|0|302|469|1|1
+201|Sid|ice age sloth|4|31|377|566|3|3
+202|Skipper|penguins of madagascar|4|32|736|736|3|3
+203|Pink Panther||2|60|736|483|2|2
+204|Sulley|monsters inc pixar|9|1|291|382|1|1
+205|Buck|ice age weasel|4|33|432|768|3|3
+206|Mr. Monopoly|monopoly rich uncle pennybags mascot|7|14|360|360|6|6
+207|Pillsbury Doughboy|mascot|7|15|275|524|6|6
+208|Stay Puft Marshmallow Man|ghostbusters|7|16|736|736|6|6
+209|Toothless|how to train your dragon|4|34|736|736|3|3
+210|Waluigi|mario nintendo|3|5|400|400|7|7
+211|Birdo|mario nintendo|3|6|501|768|7|7
+212|Wario|mario nintendo|3|7|538|768|7|7
+213|Wreck-It Ralph|disney arcade|9|2|736|736|1|1,7
+214|Yoshi|mario nintendo|3|8|528|768|7|7
+215|Zim|invader zim alien|2|61|340|546|2|2,9
+216|Rodney Copperbottom|robots movie|4|35|517|768|3|3
+217|Lego Batman|lego movie dc|6|16|400|400|5|5,3
+218|Art the Clown|terrifier horror|5|6|649|768|4|4
+219|King Boo|mario nintendo ghost|3|9|658|768|7|7,4
